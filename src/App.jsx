@@ -2,11 +2,11 @@ import { useState, useEffect, useCallback } from "react";
 
 // ── DESIGN TOKENS ──────────────────────────────────────────────────────────
 const COLORS = {
-  bg: "#0D0F14",
-  surface: "#161A22",
+  bg: "#0D0F12",
+  surface: "#161A23",
   card: "#1E2330",
   border: "#2A3040",
-  accent: "#F5A623",
+  accent: "#f523e4",
   accentDim: "#F5A62322",
   green: "#3ECFA4",
   red: "#F05C5C",
